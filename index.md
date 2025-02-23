@@ -19,3 +19,10 @@ Gampil Framework adalah framework php dengan struktur MVC yang sederhana dan rin
 1. Instal [composer](https://getcomposer.org/download/) jika belum ada.
 2. Jalankan `composer create-project gampil/gampil (nama-folder)`
 3. Tunggu proses instalasi selesai, kemudian mulailah mengoding.
+
+# Apa Selanjutnya?
+1. [Alur kerja framework ini](how-it-work.md)
+2. Format routing
+3. View templating
+4. Model query builder
+5. Tools-tools lain.
