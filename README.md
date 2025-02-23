@@ -1,0 +1,1 @@
+# Pindah saja ke [index.md](index.md)
