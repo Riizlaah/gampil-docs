@@ -22,7 +22,7 @@ Gampil Framework adalah framework php dengan struktur MVC yang sederhana dan rin
 
 # Apa Selanjutnya?
 1. [Alur kerja framework ini](how-it-work.md)
-2. Format routing
+2. [Format routing](routing.md)
 3. View templating
 4. Model query builder
 5. Tools-tools lain.

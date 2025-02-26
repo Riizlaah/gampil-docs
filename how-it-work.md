@@ -7,3 +7,7 @@ Bayangkan ada sebuah request, yang terjadi ialah:
 2. Setelah request diterima oleh controller, controller akan menjalankan method tertentu yang nantinya akan menjadi sebuah view/response code/redirect
 3. Jika di dalam method tersebut ada view, maka `Pring` akan mencari file terbaru yang sudah dicache, jika file yang dicache tidak lebih baru daripada file view atau file cache tidak ada, maka `Pring` akan mengupdate cache secara otomatis.
 4. Jika di dalam method tersebut ada model, maka `Model` tersebut akan mencoba terhubung ke database sesuai pengaturan yang ada, setelah itu maka `Model` akan mengolah method-method query builder menjadi sebuah query yang akan dieksekusi. Setelah dieksekusi, `Model` akan mengembalikan hasilnya.
+
+<br><br>
+
+[Selanjutnya](routing.md)
