@@ -1,5 +1,5 @@
 # Routing
-Routing di Gampil cukup mudah karena memakai array associative yang bisa dibilang "konstan" sehingga performanya tidak terlalu berat.
+Routing di Gampil cukup mudah karena memakai array associative yang bisa dibilang "konstan" sehingga performanya cukup ringan.
 
 ## Format
 
@@ -13,3 +13,5 @@ return [
   '/register' => ['auth:register', 'POST']
 ];
 ```
+
+[Selanjutnya](controller.md)

@@ -20,5 +20,6 @@ function `model()` menerima beberapa parameter. Yaitu:
     1. `$model_name` : nama model yang akan dipakai / di-return. Akan dipelajari lebih lanjut di bagian Model
 
 ## Property
-1. `$rhand` : singkatan dari RequestHandler, akan dipelajari nanti di bagian input & request handling
+1. `$rhand` : singkatan dari RequestHandler, akan dipelajari nanti di bagian request handling
 
+[Selanjutnya](view.md)
